@@ -1,0 +1,19 @@
+{
+  "name": "chat-go",
+  "version": "1.0.0",
+  "description": "Chat hecho en Go y Vue js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequiel1988/Chat-Vue-Go.git"
+  },
+  "author": "Ezequiel Olivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezequiel1988/Chat-Vue-Go/issues"
+  },
+  "homepage": "https://github.com/ezequiel1988/Chat-Vue-Go#readme"
+}
